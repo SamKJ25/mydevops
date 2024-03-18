@@ -1,1 +1,3 @@
 Information from Lipsum website.
+
+Edited the content from Example branch.
